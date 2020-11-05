@@ -125,13 +125,13 @@ What vowels are not present in this chart?
 
 
 
-* \textipa{@} 
+* /\textipa{@}/ 
  
 
 
-* \textipa{OI} 
+* /\textipa{OI}/ 
 
-* \textipa{aU} 
+* /\textipa{aU}/ 
 
 
 
