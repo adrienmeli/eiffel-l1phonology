@@ -2,7 +2,7 @@
 title: "L1 Phonologie anglaise"
 subtitle: "Université Gustave Eiffel"
 author: "Adrien Méli"
-date: "November 16, 2020"
+date: "November 19, 2020"
 bibliography: /home/adrien/github/dotfiles/tex/biblio.bib
 biblio-style: "apalike"
 link-citations: yes
