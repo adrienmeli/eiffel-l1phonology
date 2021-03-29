@@ -2,7 +2,7 @@
 title: "L1 Phonologie anglaise"
 subtitle: "Université Gustave Eiffel"
 author: "Adrien Méli"
-date: "February 07, 2021"
+date: "March 29, 2021"
 bibliography: /home/adrien/github/dotfiles/tex/biblio.bib
 biblio-style: "apalike"
 link-citations: yes
@@ -18,7 +18,7 @@ fontawesome: yes
 * Les transcriptions britanniques proviennent du Longman Pronunciation Dictionary (@wells2008).
 
 * Les transcriptions américaines sont sujettes à caution. Elles sont récupérées directement du [dictionnaire de Carnegie Mellon University](http://www.speech.cs.cmu.edu/cgi-bin/cmudict), mais
-  l'algorithme que j'ai écrit pour la conversion en IPA est loin d'être entièrement fonctionnelle. \color[HTML]{f44336}**Vérifiez-les dans votre dictionnaire de prononciation favori.** \color{black}
+  l'algorithme que j'ai écrit pour la conversion en IPA est loin d'être entièrement fonctionnel. \color[HTML]{f44336}**Vérifiez-les dans votre dictionnaire de prononciation favori.** \color{black}
 
 * Les erreurs non repérées, tant sur la forme que sur le fond, sont de mon fait uniquement.
 

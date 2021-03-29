@@ -79,7 +79,7 @@ cute & /1/ & /\textipa{kju:t}/\\
 
 
 
-\begin{table}[H]
+\begin{table}
 \centering
 \begin{tabular}{lllll}
 \toprule
@@ -104,7 +104,7 @@ cute & /1/ & /\textipa{kju:t}/\\
 
 
 
-\begin{table}[H]
+\begin{table}
 \centering
 \begin{tabular}{lllll}
 \toprule

@@ -12,7 +12,7 @@
 
 
 
-\begin{table}[H]
+\begin{table}
 \centering
 \begin{tabular}{lllll}
 \toprule
@@ -38,7 +38,7 @@
  
 ### Received Pronunciation (RP)
 
-\begin{table}[H]
+\begin{table}
 \centering
 \begin{tabular}{lllll}
 \toprule
@@ -61,7 +61,7 @@
 
 \vspace*{0.2cm}
 
-\begin{table}[H]
+\begin{table}
 \centering
 \begin{tabular}{lllll}
 \toprule

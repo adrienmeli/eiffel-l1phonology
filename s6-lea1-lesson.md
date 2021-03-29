@@ -12,7 +12,7 @@
 
 
 
-\begin{table}[H]
+\begin{table}
 \centering
 \begin{tabular}{lllll}
 \toprule
@@ -33,7 +33,7 @@
 
 
 
-\begin{table}[H]
+\begin{table}
 \centering
 \begin{tabular}{lllll}
 \toprule
